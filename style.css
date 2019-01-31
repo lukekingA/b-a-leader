@@ -26,3 +26,11 @@ p {
 .white-card:hover {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.801);
 }
+
+.push {
+  height: 50vw;
+}
+
+#vid-img {
+  background-image: url("images/meetingb.png");
+}
