@@ -1,0 +1,23 @@
+body,
+html {
+  font-family: 'Montserrat',
+    sans-serif;
+}
+
+.small-text {
+  font-size: .5rem
+}
+
+.vert-text {
+  vertical-align: middle;
+}
+
+
+.header-wrapper {
+  background: linear-gradient(#8dcfeb,
+    #54a0d0);
+}
+
+.white-text {
+  color: #fffff3;
+}
