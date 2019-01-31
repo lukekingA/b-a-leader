@@ -1,27 +1,28 @@
 body,
 html {
-  font-family: 'Montserrat',
-    sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 p {
-  font-size: .6rem;
+  font-size: 0.6rem;
 }
 
 .small-text {
-  font-size: .5rem
+  font-size: 0.5rem;
 }
 
 .vert-text {
   vertical-align: middle;
 }
 
-
 .header-wrapper {
-  background: linear-gradient(#8dcfeb,
-    #54a0d0);
+  background: linear-gradient(#8dcfeb, #54a0d0);
 }
 
 .white-text {
   color: #fffff3;
+}
+
+.white-card:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.801);
 }
