@@ -4,6 +4,10 @@ html {
     sans-serif;
 }
 
+p {
+  font-size: .6rem;
+}
+
 .small-text {
   font-size: .5rem
 }
